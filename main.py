@@ -1,11 +1,11 @@
 from flask import Flask, render_template, request, url_for, redirect
 app = Flask(__name__)
 
-name="Lenz Paul"
-role="Software Engineer"
-phone="+1-778-268-1456"
-email="info@lenzpaul.dev"
-location="Vancouver, BC, Canada"
+name="Neana Del Rio"
+role="Cybersecurity Analyst"
+phone="702-813-3048"
+email="neanadelrio@gmail.com"
+location="Atlanta, GA"
 
 
 @app.route("/")
@@ -14,7 +14,8 @@ def index():
     name=name,
     role=role,
     phone=phone,
-    email=email
+    email=email,
+    location=location
     )
 
 if __name__ == "__main__":
