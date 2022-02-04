@@ -2,16 +2,16 @@
 
 
 <!-- TODO: Insert the link in between the parenthesis -->
-👋  Hi! I'm Lenz Paul. I'm a programmer from [Vancouver, Canada](https://www.google.com/maps/place/Vancouver,+BC/@49.2576508,-123.2639868,11z/data=!3m1!4b1!4m5!3m4!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!8m2!3d49.2827291!4d-123.1207375?hl=en).  
+👋  Hi! I'm Neana Del Rio. I'm an aspiring Cloud Engineer and Cybersecurity Analyst from [Atlanta, Georgia](https://www.google.com/maps/place/Atlanta,+GA/@33.7676338,-84.5606909,11z/data=!3m1!4b1!4m9!1m2!2m1!1satlanta+georgia+maps+coordinates!3m5!1s0x88f5045d6993098d:0x66fede2f990b630b!8m2!3d33.7489954!4d-84.3879824!15sCiBhdGxhbnRhIGdlb3JnaWEgbWFwcyBjb29yZGluYXRlc5IBCGxvY2FsaXR5).  
 
-This is the repository for [my portfolio](https://lenzpaul.dev/). 
+This is the repository for [my portfolio](xyxy). 
 
 <br>
 
 ## The project
 ### Technologies used
 I've used the following technologies:
-- [Google App Engine](https://cloud.google.com/appengine/docs/overview)
+- [Google App Engine](https://cloud.google.com/appengine/docs)
 - [Python](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/)
 
